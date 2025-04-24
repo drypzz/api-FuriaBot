@@ -32,19 +32,19 @@ exports.handleMessage = async (req, res) => {
                 • Gabriel "FalleN" Toledo (IGL)
                 • Kaike "KSCERATO" Cerato
                 • Yuri "yuurih" Boian
-                • Danil "molodoy" Golubenko (contratado em abril de 2025)
-                • Mareks "YEKINDAR" Gaļinskis (stand-in desde abril de 2025)
-              - Técnico: Juan "Hepa" Borges (desde janeiro de 2025)
+                • Danil "molodoy" Golubenko
+                • Mareks "YEKINDAR" Gaļinskis
+                • Juan "Hepa" Borges (Técnico)
       
-              🧠 Valorant:
+              🧠 Valorant (VLR):
               - Jogadores:
                 • Olavo "heat" Marcelo
                 • Luis-Henrique "pryze" Viveiros
                 • Rafael "raafa" Lima (Capitão)
                 • Ilan "havoc" Eloy
                 • Khalil "khalil" Schmidt
-              - Técnico: Pedro "peu" Lopes
-              - Assistente técnico: Lucas "lukzera" Soares
+                • Pedro "peu" Lopes (Técnico)
+                • Lucas "lukzera" Soares (Assistente Técnico)
       
               🛡️ League of Legends (LoL):
               - Com a estreia da LTA Sul (substituindo o CBLOL em 2025), a FURIA apresentou um novo elenco:
@@ -54,15 +54,15 @@ exports.handleMessage = async (req, res) => {
                 • ADC: Andrey "Ayu" Saraiva
                 • Support: Gabriel "JoJo" Dzelme
       
-              🚀 Rocket League:
+              🚀 Rocket League (RL):
               - A FURIA participou do RLCS 2025 - Birmingham Major em março de 2025, consolidando sua presença internacional no cenário.
               - Jogadores:
                 • Yan "yANXNZ" Nolasco
                 • Gabriel "Lostt" Buzon
                 • Arthur "DRUFINHO" Miguel
-              - Técnico: Mateus "STL" Santos
+                • Mateus "STL" Santos (Técnico)
       
-              🛡️ Rainbow Six Siege:
+              🛡️ Rainbow Six Siege (R6):
               - Em 2024, a FURIA conquistou o 3º-4º lugar na Esports World Cup e o 5º-8º lugar no Blast R6 Major Manchester.
               - Jogadores:
                 • Felipe "FelipoX" De Lucia
@@ -70,8 +70,8 @@ exports.handleMessage = async (req, res) => {
                 • João "Jv92" Vitor
                 • Diego "Kheyze" Zanello
                 • Felipe "nade" Sá Ferreira
-              - Técnico: Igor "igoorctg" dos Santos
-              - Analista: Felipe "Abreu" da Silva
+                • Igor "igoorctg" dos Santos (Técnico)
+                • Felipe "Abreu" da Silva (Analista)
       
               ⚠️ Regras importantes:
               - Você deve **ignorar perguntas que não tenham relação com a FURIA ou seus times**.
