@@ -39,7 +39,7 @@ exports.handleMessage = async (req, res) => {
               🧠 Valorant (VLR):
               - Jogadores:
                 • Olavo "heat" Marcelo
-                • Luis-Henrique "pryze" Viveiros
+                • Luis "pryze" Viveiros
                 • Rafael "raafa" Lima (Capitão)
                 • Ilan "havoc" Eloy
                 • Khalil "khalil" Schmidt
